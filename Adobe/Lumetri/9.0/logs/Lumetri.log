@@ -1,0 +1,18 @@
+Machine:   chui-MacBook-Pro.local in domain 
+User:      ch
+Mode:      64-Bit
+Display:   Display not detectable
+Driver:    Driver not detectable
+CPU:       Name: Intel(R) Core(TM) i7-4770HQ CPU @ 2.20GHz
+           Model: 70, Family: 6, Stepping: 1 
+           Total Threads: 8
+           Features: MMX SSE SSE2 SSE3 SSSE3 SSE4.1 SSE4.2 AVX F16C FMA AVX2 RDTSCP CLMUL AES RDRAND POPCNT ABM BMI BMI2 MOVBE
+Base path: /Applications/Adobe Premiere Pro 2020/Adobe Premiere Pro 2020.app/Contents/MacOS/
+Arguments: 
+
+13:02:47 [IrLog]           LogFile initialized
+13:02:47 [GlobalSettings]  Loading user settings from /Users/ch/Documents/Adobe/Lumetri/9.0/settings/User_Settings.xml
+16:36:09 [GlobalSettings]  Last object UID: 0x00000001
+16:36:09 [IrLog]           Closing log file
+
+01/26/21
